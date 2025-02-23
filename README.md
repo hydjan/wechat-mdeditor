@@ -4,7 +4,7 @@
 
 这让你在公众号创作时，把更多的时间专注于文章本身，而不是繁琐地调整文章样式。
 
-[在线使用](http://prod.zkqiang.cn/wxeditor)
+[在线使用](https://hydjan.github.io/wechat-mdeditor/src/)
 
 ## 功能
 
